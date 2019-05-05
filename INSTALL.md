@@ -1,7 +1,7 @@
 ## Installing FFmpeg
 
 1. Type `./configure` to create the configuration. A list of configure
-options is printed by running `configure --help`.
+options is printed by running `./configure --help`.
 
     `configure` can be launched from a directory different from the FFmpeg
 sources to build the objects out of tree. To do this, use an absolute
